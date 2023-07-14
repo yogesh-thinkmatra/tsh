@@ -6,7 +6,7 @@
             <div class="swiper-wrapper hero-slider__wrapper">
                 <!--=======  single slider item  =======-->
 
-                <div class="swiper-slide hero-slider__single-item bg-img" data-bg="{{asset('assets/img/slider/slider4.webp')}}">
+                <div class="swiper-slide hero-slider__single-item bg-img" data-bg="{{asset('uploads/content/slider4.jpg')}}">
                     <div class="hero-slider__content-wrapper">
                         <div class="container">
                             <div class="row">
@@ -25,7 +25,7 @@
                 <!--=======  End of single slider item  =======-->
                 <!--=======  single slider item  =======-->
 
-                <div class="swiper-slide hero-slider__single-item bg-img" data-bg="{{asset('assets/img/slider/slider5.webp')}}">
+                <div class="swiper-slide hero-slider__single-item bg-img" data-bg="{{asset('uploads/content/slider5.jpg')}}">
                     <div class="hero-slider__content-wrapper">
                         <div class="container">
                             <div class="row">
@@ -60,7 +60,7 @@
                         <div class="col-lg-3 col-md-6">
                             <div class="single-feature-icon">
                                 <div class="single-feature-icon__image">
-                                    <img width="62" height="62" src="{{asset('assets/img/icons/feature-4.webp')}}" class="img-fluid" alt="">
+                                    <img width="62" height="62" src="{{asset('uploads/content/graphiclogo.png')}}" class="img-fluid" alt="">
                                 </div>
                                 <h3 class="single-feature-icon__title">Designing</h3>
                                 <p class="single-feature-icon__content">Our Commitment to excellence is evident in every aspect of our work</p>
@@ -69,7 +69,7 @@
                         <div class="col-lg-3 col-md-6">
                             <div class="single-feature-icon">
                                 <div class="single-feature-icon__image">
-                                    <img width="68" height="62" src="{{asset('assets/img/icons/feature-5.webp')}}" class="img-fluid" alt="">
+                                    <img width="68" height="62" src="{{asset('uploads/content/mllogo.png')}}" class="img-fluid" alt="">
                                 </div>
                                 <h3 class="single-feature-icon__title">Machine Learning and AI</h3>
                                 <p class="single-feature-icon__content">Our ML and AI services are designed to help you unblock the full potential of your data</p>
@@ -78,7 +78,7 @@
                         <div class="col-lg-3 col-md-6">
                             <div class="single-feature-icon">
                                 <div class="single-feature-icon__image">
-                                    <img width="62" height="62" src="{{asset('assets/img/icons/feature-6.webp')}}" class="img-fluid" alt="">
+                                    <img width="62" height="62" src="{{asset('uploads/content/mllogo.png')}}" class="img-fluid" alt="">
                                 </div>
                                 <h3 class="single-feature-icon__title">Blockchain</h3>
                                 <p class="single-feature-icon__content">Security is a paramount concern is todays's digital landscape and blockchain provides a robust solution</p>
@@ -87,7 +87,7 @@
                         <div class="col-lg-3 col-md-6">
                             <div class="single-feature-icon">
                                 <div class="single-feature-icon__image">
-                                    <img width="62" height="62" src="{{asset('assets/img/icons/feature-7.webp')}}" class="img-fluid" alt="">
+                                    <img width="62" height="62" src="{{asset('uploads/content/marketinflogo.png')}}" class="img-fluid" alt="">
                                 </div>
                                 <h3 class="single-feature-icon__title">Digital Marketing</h3>
                                 <p class="single-feature-icon__content">Our Comprehensive range of digital marketing services convers all aspects of online promotion</p>
@@ -113,7 +113,7 @@
             </div>
             <div class="col-lg-6 col-md-12">
                 <div class="about-image">
-                    <img width="650" height="311" src="{{asset('assets/img/backgrounds/about.webp')}}" class="img-fluid" alt="">
+                    <img width="650" height="311" src="{{asset('uploads/content/about-us.jpg')}}" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
@@ -158,7 +158,7 @@
                                 <div class="tab-pane fade show active" id="service-item1" role="tabpanel"
                                     aria-labelledby="service-item1-tab">
                                     <div class="service-tab__single-content-wrapper bg-img"
-                                        data-bg="{{asset('assets/img/backgrounds/service-tab1.webp')}}">
+                                        data-bg="{{asset('uploads/content/design.jpg')}}">
                                         <div class="service-tab__single-content">
                                             <h3 class="service-tab__title">Designing</h3>
                                             <p class="service-tab__text">Our Commitment to excellence is evident in every aspect of our work</p>
@@ -169,7 +169,7 @@
                                 <div class="tab-pane fade" id="service-item2" role="tabpanel"
                                     aria-labelledby="service-item2-tab">
                                     <div class="service-tab__single-content-wrapper bg-img"
-                                        data-bg="{{asset('assets/img/backgrounds/service-tab1.webp')}}">
+                                        data-bg="{{asset('uploads/content/ml.jpg')}}">
                                         <div class="service-tab__single-content">
                                             <h3 class="service-tab__title">Machine Learning and AI</h3>
                                             <p class="service-tab__text">Our ML and AI services are designed to help you unblock the full potential of your data</p>
@@ -180,7 +180,7 @@
                                 <div class="tab-pane fade" id="service-item3" role="tabpanel"
                                     aria-labelledby="service-item3-tab">
                                     <div class="service-tab__single-content-wrapper bg-img"
-                                        data-bg="{{asset('assets/img/backgrounds/service-tab1.webp')}}">
+                                        data-bg="{{asset('uploads/content/blockchain.jpg')}}">
                                         <div class="service-tab__single-content">
                                             <h3 class="service-tab__title">Blockchain</h3>
                                             <p class="service-tab__text">Security is a paramount concern is todays's digital landscape and blockchain provides a robust solution/p>
@@ -191,7 +191,7 @@
                                 <div class="tab-pane fade" id="service-item4" role="tabpanel"
                                     aria-labelledby="service-item4-tab">
                                     <div class="service-tab__single-content-wrapper bg-img"
-                                        data-bg="{{asset('assets/img/backgrounds/service-tab1.webp')}}">
+                                        data-bg="{{asset('uploads/content/social.png')}}">
                                         <div class="service-tab__single-content">
                                             <h3 class="service-tab__title">Digital Marketing</h3>
                                             <p class="service-tab__text">Our Comprehensive range of digital marketing services convers all aspects of online promotion</p>
